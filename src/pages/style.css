@@ -1,0 +1,17 @@
+.required_field_missing {
+    color:red !important;
+    font-size: small;
+    padding: 0rem;
+    padding-left: 0.1rem;
+    margin: 0rem;
+}
+
+.loader {
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+    border-radius: 20px;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    height: 100%;
+  }
